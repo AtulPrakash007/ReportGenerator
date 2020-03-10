@@ -8,9 +8,9 @@
 
 import Foundation
 
-var filePath = "/Users/mo20010958/Desktop/SwiftReportGenerator/SwiftReportGenerator/result.json"
-var htmlFilePath = "/Users/mo20010958/Desktop/SwiftReportGenerator/SwiftReportGenerator/Result.html"
-var cssFilePath = "/Users/mo20010958/Desktop/SwiftReportGenerator/SwiftReportGenerator/all.css"
+var filePath = "/Users/at20075393/Documents/SwiftReportGenerator/SwiftReportGenerator/result.json"
+var htmlFilePath = "/Users/at20075393/Documents/SwiftReportGenerator/SwiftReportGenerator/Result.html"
+var cssFilePath = "/Users/at20075393/Documents/SwiftReportGenerator/SwiftReportGenerator/all.css"
 var reportName = "Test"
 var isFilePath = false
 var ishtmlFilePath = false
